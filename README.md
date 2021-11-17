@@ -34,4 +34,4 @@
 
 <h4>Further Readings & Resources</h4> 
 
-<p> The Fragility of Technology (And What We Can Do About It) _by New Signature_
+<p> The Fragility of Technology (And What We Can Do About It) <em>by New Signature</em>
