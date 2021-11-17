@@ -1,4 +1,4 @@
-# <h1><strong> :toilet: :floppy_disk: Flushed away :floppy_disk: </strong></h1>
+# <h1><strong> :toilet: Flushed away :floppy_disk: </strong></h1>
 
 <h2>Let's talk about the fragility of technology and why our reliance on an increasingly leaky system isn't the end of the  :earth_asia:  (yet)</h2>
 
