@@ -31,3 +31,6 @@
   So a large part of the future success of tech that will no doubt remain vulnerable and most-likely increasingly fragile, I think, is in large to place increasing emphasis on regulated automation and universal communication between provider, consumer and those who regulate - the underlying pillars of what many see tech to encourage and manifest.
   
   More formally, as we head down this road of faster, more incremental changes, what we are giving up in simplicity and perceived stability we are making up for in being able to rapidly respond to security flaws, uptime problems, and usability issues. We are learning that overcoming fragility is not just a goal, but a process.</p> 
+
+<h4>Further Readings & Resources</h4> 
+  
