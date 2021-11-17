@@ -40,5 +40,5 @@
 
 <p> What is WannaCry ransomware? <em>by Kaspersky</em> [3]  </p> 
   
-  <!-- [1]:https://newsignature.com/articles/the-fragility-of-technology-and-what-we-can-do-about-it/ -->
+[1]:https://newsignature.com/articles/the-fragility-of-technology-and-what-we-can-do-about-it/ 
   
