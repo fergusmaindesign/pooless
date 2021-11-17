@@ -34,4 +34,9 @@
 
 <h4>Further Readings & Resources</h4> 
 
-<p> The Fragility of Technology (And What We Can Do About It) <em>by New Signature</em>
+<p> The Fragility of Technology (And What We Can Do About It) <em>by New Signature</em> [1]
+  The Unsustainable Fragility of the Digital, and What to Do About It <em>by Floridi, L.</em> [2]
+  What is WannaCry ransomware? <em>by Kaspersky</em> [3]
+  
+  <!-- [1]:https://newsignature.com/articles/the-fragility-of-technology-and-what-we-can-do-about-it/ -->
+  
