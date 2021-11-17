@@ -33,4 +33,5 @@
   More formally, as we head down this road of faster, more incremental changes, what we are giving up in simplicity and perceived stability we are making up for in being able to rapidly respond to security flaws, uptime problems, and usability issues. We are learning that overcoming fragility is not just a goal, but a process.</p> 
 
 <h4>Further Readings & Resources</h4> 
-  
+
+<p> The Fragility of Technology (And What We Can Do About It) _by New Signature_
