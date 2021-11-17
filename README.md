@@ -12,4 +12,6 @@
   
   What I want to touch on and encourage having read about the topic, is the need and work being done to manage our digital vulnerabilities in an evermore volatile (lets talk about out how in a mo) cyber-world.
   
+  Think back to May 2017, WannaCry runs rampant, a nasty bout of ransomware spreading through computers operating Microsoft Windows. User’s files were held hostage, and a Bitcoin ransom was demanded for their return. Were it not for the continued use of outdated computer systems and poor education around the need to update software, the damage caused by this attack could have been avoided. It's reported WannaCry cost 4$ billion [!]
   
+  This attack is one of countless but helps illustrate how 
