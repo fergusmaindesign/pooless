@@ -2,7 +2,7 @@
 
 <h2>Let's talk about the fragility of technology and why our reliance on an increasingly leaky system isn't the end of the  :earth_asia:  (yet)</h2>
 
-![Toilet2](https://user-images.githubusercontent.com/94390271/142294177-f1fa447d-6177-4ae0-b8a5-da4fb2bd3a96.png)
+![Toilet3](https://user-images.githubusercontent.com/94390271/142294294-9b2203ce-27c6-4a30-86eb-67124e9f9411.png)![Toilet3](https://user-images.githubusercontent.com/94390271/142294294-9b2203ce-27c6-4a30-86eb-67124e9f9411.png)![Toilet3](https://user-images.githubusercontent.com/94390271/142294294-9b2203ce-27c6-4a30-86eb-67124e9f9411.png)
 
 <h4>Entertain me for a moment... There's something about being perched on a public pooper that gets the juices flowing in a little more than a literal sense - Caught in an interlude of cautious calm, falling into a familiar mindfulness, I was jolted abruptly by the swirling flood of the auto-flush on the loo I was throning, triggered by a sensor impractically positioned behind my head.</h4>
 
